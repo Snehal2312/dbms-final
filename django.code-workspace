@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "project1",
+			"path": "project1"
+		},
+		{
+			"name": "static1",
+			"path": "static1"
+		},
+		{
+			"name": "assets1",
+			"path": "assets1"
+		},
+		{
+			"name": "travello",
+			"path": "travello"
+		},
+		{
+			"path": "accounts"
+		},
+		{
+			"path": "templates"
+		}
+	],
+	"settings": {}
+}
